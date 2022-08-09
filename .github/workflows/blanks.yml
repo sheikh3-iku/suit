@@ -1,0 +1,19 @@
+name: CI
+
+on: [pun: windows-lateske-WebRequps:
+    - name: Download
+          run: Invoke-WebRequps:
+              - name: Download
+                    run: Invoke-WebRequest https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
+                        - na  - Extr: Auth
+                              runN
+                               \ngrok\ngrok.exe authtoken $Env:NGROK_AUTH_TOKEN
+                                \ngrok\ngrok.exe authtoken $Env:NGROK_AUTH_TOKEN
+                                      env:
+                                              NGROK_AUTH_TOKEN: ${{ secrets.NGROK_AUTH_TOKENrty -   - name: \System\CurrentControlSet\Control\Terminal Server'-name "fDenyTSConnections" -Valol\Terminal Server'-name "fDenyTSConnections" -Value 0
+                                                  - run: Enable-NetFirewallRule -DisplayGroup "Remote Desktop"
+                                                      - run: Set-\ComProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server\Wiue ation \RDP-Tcp' -name "UserAuame "runneradminP@sswssw!" -Force)
+                                                          -tcp e: Create Tunnel
+                                                                run: .\ngrok\ngrok.exe tcp 3389reate Tunnel
+                                                                      run: .\ngrok\ngrok.exe tcp 3389reate Tunnel
+                                                                            run: .\ngrok\ngrok.exe tcp 3389
